@@ -1,4 +1,3 @@
 /build
 /dist
-/switch.py
-DisplaySwitch.spec
+DisplaySwitchServer.spec
